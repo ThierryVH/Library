@@ -1,0 +1,25 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Raleway", sans-serif!important;
+}
+
+textarea{
+	resize: vertical;
+}
+
+@media (min-width: 601px) {
+	.login{
+		margin-left: 25.5%;
+	}
+}
+
+@media (min-width: 993px) {
+	.login{
+		margin-left: 33.33%;
+	}
+}
